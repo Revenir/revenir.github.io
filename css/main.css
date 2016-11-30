@@ -6,7 +6,7 @@ html{
       display: block;
       position:fixed;
       float: right;
-      width: 200px;
+      width: 250px;
       height: 100%; 
       background-color:#1b1b1b;
       overflow: hidden;
@@ -38,7 +38,7 @@ html{
     display: block;
     position: relative;
     float: right;
-    margin-left: 250px;
+    margin-left: 350px;
     margin-top: 200px;
     margin-right: 250px;
     font-size: 12px;
